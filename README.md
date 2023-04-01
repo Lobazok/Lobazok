@@ -1,7 +1,5 @@
 # Lobazok
 web developer, gameDev, computer disseminator & independent researcher in the branch of Deep learning
-
-## **EN**
 ## web developer
 Hi! I'm lobazok **web developer fullstack**, I have **great JavaScript skills**
 
