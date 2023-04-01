@@ -97,5 +97,4 @@ cree el motor de inteligencias artificiales **BidanJs**
 JavaScript AI engine Focused on simplicity of use
 
 también divulgo sobre este tema en mi cuenta de **TikTok**
-[mi cuenta](https://www.tiktok.com/@lobazok?lang=es)
---->
+[mi cuenta](https://www.tiktok.com/@lobazok?lang=es) --->
