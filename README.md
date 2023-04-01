@@ -11,29 +11,29 @@ Express use on BackEnd,
 I usually use Azure as a hosting
 
 ### technical skills
-+ HTML
-+ CSS
-+ JavaScript
-+ React
-+ REST API
-+ nodeJs
-+ npm
-+ express
-+ SQL
-+ MySql
-+ Azure
-+ git
+ HTML
+ CSS
+ JavaScript
+ React
+ REST API
+ nodeJs
+ npm
+ express
+ SQL
+ MySql
+ Azure
+ git
 
 ## gameDev 
 As a hobby I create video games, I am currently developing [Llamas Invader](https://lobazok.itch.io/llamas-Invader),
 I have a **itch.io** [Lobazok itch.io](https://lobazok.itch.io/) account
 
 ### technical skills
-+ unity
-+ C#
-+ blender
-+ aseprite
-+ itch.io
+ unity
+ C#
+ blender
+ aseprite
+ itch.io
 
 ## computer disseminator 
 
@@ -60,29 +60,29 @@ uso Express en BackEnd,
 suelo usar Azure como hosting
 
 ### habilidades técnicas
-+ HTML
-+ CSS
-+ JavaScript
-+ React
-+ API REST
-+ nodeJs
-+ npm
-+ express
-+ SQL
-+ MySql
-+ azure
-+ git
+ HTML
+ CSS
+ JavaScript
+ React
+ API REST
+ nodeJs
+ npm
+ express
+ SQL
+ MySql
+ azure
+ git
 
 ## gameDev 
 como hobby creo videojuegos, actualmente estoy desarrollando [llamas invader](https://lobazok.itch.io/llamas-invader),
 tengo una cuenta de **itch.io** [lobazok itch.io](https://lobazok.itch.io/)
 
 ### habilidades técnicas
-+ unity
-+ C#
-+ blender
-+ aseprite
-+ itch.io
+ unity
+ C#
+ blender
+ aseprite
+ itch.io
 
 ##  divulgador informático 
 
