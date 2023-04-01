@@ -37,7 +37,9 @@ in my **TikTok** account I upload videos about computer dissemination, explain w
 ## Deep learning 
 I am an independent researcher in the branch of Deep learning 
 create the artificial intelligence engine **BidanJs**
+
 JavaScript AI engine Focused on simplicity of use
+
 I also disclose about this topic on my **TikTok** account.
 [My Account] (https://www.tiktok.com/@lobazok?lang=es)
 
