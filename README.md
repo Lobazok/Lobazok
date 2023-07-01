@@ -41,5 +41,5 @@ create the artificial intelligence engine **BidanJs**
 JavaScript AI engine Focused on simplicity of use
 
 I also disclose about this topic on my **TikTok** account.
-[My Account] (https://www.tiktok.com/@lobazok?lang=es)
+[My Account](https://www.tiktok.com/@lobazok?lang=es)
 
